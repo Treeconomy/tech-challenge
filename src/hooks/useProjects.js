@@ -1,4 +1,4 @@
-import React, { useCallback, useState } from "react";
+import { useCallback, useState } from "react";
 import mainService from "services/MainService";
 
 const useProjects = () => {
