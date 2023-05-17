@@ -1,0 +1,20 @@
+.app-header {
+    font-family: "Exo 2";
+    font-size: 18px;
+    font-weight: 700;
+}
+
+@media (min-width: 678px) {
+    .app-header {
+        font-size: 24px;
+    }
+}
+
+@media (min-width: 980px) {
+    .app-header {
+        font-size: 36px;
+    }
+}
+
+.app-header-name {
+}
